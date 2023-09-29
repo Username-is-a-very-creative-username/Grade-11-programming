@@ -1,3 +1,4 @@
+//double allows numbers to be shown in full exponential form
 class Main {
   public static void main(String[] args) {
     double score1 = 88.8;
