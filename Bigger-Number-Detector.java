@@ -1,3 +1,4 @@
+//always {} up each else if statement
 class Main {
   public static void main(String[] args) {
     int p=7, v=3; 
