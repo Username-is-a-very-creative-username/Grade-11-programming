@@ -1,3 +1,4 @@
+//% is the remainder of any number given
 class Main {
   public static void main(String[] args) {
     int Number=55;
