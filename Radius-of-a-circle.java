@@ -1,8 +1,8 @@
 class Main {
   public static void main(String[] args) {
-    double Pie=3.14; 
-    double Circle1=5.56; 
-    double Circle2=42.121;
+    final double Pie=3.14; 
+    final double Circle1=5.56; 
+    final double Circle2=42.121;
     int Circle3=5; 
     
     
