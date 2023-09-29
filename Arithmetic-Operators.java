@@ -14,8 +14,8 @@ class Main {
 
    int Subtracting = a - b; 
 
-     
-
+    //"Arithmetic" Operators are math symbols
+    
     System.out.println("MULTIPLICATION = " + Multiplying); 
 
     System.out.println("ADDITION = " + Adding); 
